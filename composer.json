@@ -1,5 +1,5 @@
 {
-    "name": "emgiezet/errbit-php",
+    "name": "nkovacs/errbit-php",
     "type": "library",
     "description": "errbit/airbrake integration with php with psr-2",
     "keywords": ["errbit", "errbit php", "error tracking", "airbrake"],
